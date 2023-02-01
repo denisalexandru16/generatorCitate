@@ -1,0 +1,2 @@
+# generatorCitate
+Generator de citate
